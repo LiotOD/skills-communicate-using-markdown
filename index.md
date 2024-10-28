@@ -4,3 +4,7 @@
 
 Ajouter une image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var maVar = "One Piece!";
+```
